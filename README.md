@@ -3,18 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently Studying for the PNPT
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Security.
+- 💼 &nbsp; Full Stack Developer and Manager.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; .Net | C# | Python |   
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; Angular | React | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; SQL | MySQL | MariaDB
 - 🔧 &nbsp; Visual Studio | Visual Studio code | Git
 
