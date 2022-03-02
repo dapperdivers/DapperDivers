@@ -13,19 +13,18 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
+- 💻 &nbsp; .Net | C# | Python |   
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🛢 &nbsp; SQL | MySQL | MariaDB
+- 🔧 &nbsp; Visual Studio | Visual Studio code | Git
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dapperdivers&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="dapperdivers's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dapperdivers&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/dapperdivers/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
