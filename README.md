@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently Studying for the PNPT
+- 🔭 &nbsp; PNPT holder
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Security.
 - 💼 &nbsp; Full Stack Developer and Manager.
