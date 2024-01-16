@@ -4,9 +4,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; PNPT holder
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Security.
-- 💼 &nbsp; Full Stack Developer and Manager.
+- 💼 &nbsp; Full Stack Developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
