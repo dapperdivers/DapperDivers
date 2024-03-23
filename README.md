@@ -3,11 +3,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; PNPT holder
+- 🔭 &nbsp; PNPT
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Security.
-- 💼 &nbsp; Full Stack Developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
+- 💼 &nbsp; Full Stack Developer/ Application Securiy Engineer.
+- 🌱 &nbsp; Cyber Security and Artificial Intelligence Enthusiast.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
