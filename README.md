@@ -3,19 +3,19 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; PNPT
+- 🔭 &nbsp; PNPT | Google Cybersecurity Certificate 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Security.
-- 💼 &nbsp; Full Stack Developer/ Application Securiy Engineer.
+- 💼 &nbsp; Full Stack Developer/ Application Securiy Engineer / Budding AI Engineer.
 - 🌱 &nbsp; Cyber Security and Artificial Intelligence Enthusiast.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; .Net | C# | Python |   
-- 🌐 &nbsp; Angular | React | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; SQL | MySQL | MariaDB
-- 🔧 &nbsp; Visual Studio | Visual Studio code | Git
+- 🌐 &nbsp; Angular | React | HTML | CSS | JavaScript | Bootstrap | Tailwind
+- 🛢 &nbsp; SQL | MySQL | MariaDB | Postgres | Mongo | Redis | EMQX
+- 🔧 &nbsp; Visual Studio | Visual Studio code | Git | NVIM
 
 <br>
 
