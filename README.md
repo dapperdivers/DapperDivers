@@ -9,7 +9,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Security.
 - 💼 &nbsp; Full Stack Developer/ Application Securiy Engineer / Budding AI Engineer.
-- 🌱 &nbsp; Cyber Security and Artificial Intelligence Enthusiast.
+- 🌱 &nbsp; Cyber Security Professional and Artificial Intelligence Enthusiast.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
